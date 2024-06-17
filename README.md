@@ -35,7 +35,7 @@ For the purpose of this project, the dataset has been modified to include additi
 
 ## Instructions
 
-To reproduce the analysis or contribute to the project, follow the steps outlined in the Jupyter Notebook (`analysis.ipynb`). 
+To reproduce the analysis or contribute to the project, follow the steps outlined in the Jupyter Notebook (`notebook.ipynb`). 
 
 Feel free to explore the dataset and contribute to the enhancement of drug safety analysis.
 
